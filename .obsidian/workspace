@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "5f6827e6bc293f00",
+    "type": "split",
+    "children": [
+      {
+        "id": "6647fc45ce4d6509",
+        "type": "split",
+        "children": [
+          {
+            "id": "fe47d97d90899e13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4efbf1cbbc99547",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25a749bf25277fb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd543ef630cd695c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47ad0f8928c68714",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "812cae30a79cab5a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ab41496543d9812",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5f849b02ff2e834",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe275aa6ade88ade",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fe47d97d90899e13",
+  "lastOpenFiles": [
+    "README.md",
+    "GitOps.md",
+    "VCS Platforms.md",
+    "vcs/GitHub.md",
+    "vcs/GitLab.md"
+  ]
+}
