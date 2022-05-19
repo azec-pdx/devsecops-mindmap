@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6647fc45ce4d6509",
-        "type": "split",
-        "children": [
-          {
-            "id": "fe47d97d90899e13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4efbf1cbbc99547",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
+        "id": "fe47d97d90899e13",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": true
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
