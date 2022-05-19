@@ -8,9 +8,9 @@ Obsidian vault, mind-map and graph for all bookmarks for DevSecOps topics of int
 1. Download [Obsidian app](https://obsidian.md/) for your OS and install
 2. Install Obsidian plugin [Mind Map](https://github.com/lynchjames/obsidian-mind-map) from Community Plugins (might need to disable safe mode)
 3. Use either Obsidian graph view to jump between topics, or
-4. Use Mind Map preview to follow mind-map structure of each document
-
-![Mind-Map Obsidian Live Preview](https://github.com/azec-pdx/devsecops-mindmap/blob/main/img/mind-map-preview.gif?raw=true)
+    ![Obsidian Graph Preview](https://github.com/azec-pdx/devsecops-mindmap/blob/main/img/obsidian-graph-preview.gif?raw=true)
+5. Use Mind Map preview to follow mind-map structure of each document
+     ![Mind-Map Obsidian Live Preview](https://github.com/azec-pdx/devsecops-mindmap/blob/main/img/mind-map-preview.gif?raw=true)
 
 ## Structure
 
@@ -22,10 +22,13 @@ Obsidian vault, mind-map and graph for all bookmarks for DevSecOps topics of int
 ## Topics Index
 
 1. [[VCS Platforms]]
-	1. [[VCS Platforms#GitLab|GitLab]]
-	2. [[VCS Platforms#GitHub|GitHub]]
+	1. [[VCS Platforms#GitLab]]
+	2. [[VCS Platforms#GitHub]]
 2. [[GitOps]]
-	1. [[GitOps#Community|Community]]
-	2. [[GitOps#Resources|Resources]]
-	3. [[GitOps#Tools|Tools]]
+	1. [[GitOps#Community]]
+	2. [[GitOps#Resources]]
+	3. [[GitOps#Tools]]
+3. [[IaaC]]
+	1. [[IaaC#Terraform]]
+	2. [[IaaC#CLI tools]]
 

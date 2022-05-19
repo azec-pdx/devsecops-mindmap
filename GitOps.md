@@ -16,7 +16,7 @@
 
 ### Recordings
 1. [GitOps North America 2021](https://www.youtube.com/playlist?list=PLj6h78yzYM2O_aoiru-ZeyVT0VHdWglfZ)
-
+2. [The NewStack Podcast E691 | The Best CI/CD Tool for Kubernetes Doesn't Exist](https://thenewstack.simplecast.com/episodes/the-best-ci-cd-tool-for-kubernetes-doesnt-exist)
 
 ### Books
 
@@ -25,6 +25,10 @@
 ### Articles
 1. [OpenGitOps GitHub documentation](https://github.com/open-gitops)
 2. [CNCF Tech Radar - Continuous Delivery](https://radar.cncf.io/2020-06-continuous-delivery)
+
+### Repositories
+1. [FluxCD + Helm + Multicluster GitOps at CERN](https://gitlab.cern.ch/helm/releases/gitops-getting-started/)
+2. [ArgoCD + Helm + Multicluster GitOps at CERN](https://gitlab.cern.ch/clange/gitops-argo-cd)
 
 ## Tools
 

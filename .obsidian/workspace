@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "fe47d97d90899e13",
+        "id": "1c527ca8ede2a693",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -87,12 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fe47d97d90899e13",
+  "active": "1c527ca8ede2a693",
   "lastOpenFiles": [
     "README.md",
+    "Prometheus.md",
+    "Observability.md",
     "GitOps.md",
+    "IaaC.md",
+    "OpenTelemetry.md",
+    "Grafana.md",
     "VCS Platforms.md",
-    "vcs/GitHub.md",
-    "vcs/GitLab.md"
+    "img/mind-map-preview.gif",
+    "vcs/GitHub.md"
   ]
 }
