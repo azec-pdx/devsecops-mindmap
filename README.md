@@ -19,16 +19,4 @@ Obsidian vault, mind-map and graph for all bookmarks for DevSecOps topics of int
    ![Mind-Map Obsidian Example](https://github.com/azec-pdx/devsecops-mindmap/blob/main/img/mindmap-plugin-preview.png?raw=true)
 3. Individual files can backlink other files from other files (this gets reflected in Obsidian graph), or can backlink to specific headings from other files.
 
-## Topics Index
-
-1. [[VCS Platforms]]
-	1. [[VCS Platforms#GitLab]]
-	2. [[VCS Platforms#GitHub]]
-2. [[GitOps]]
-	1. [[GitOps#Community]]
-	2. [[GitOps#Resources]]
-	3. [[GitOps#Tools]]
-3. [[IaaC]]
-	1. [[IaaC#Terraform]]
-	2. [[IaaC#CLI tools]]
 

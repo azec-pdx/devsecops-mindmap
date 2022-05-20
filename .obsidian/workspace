@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "K8S.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "K8S.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1c527ca8ede2a693",
   "lastOpenFiles": [
-    "README.md",
+    "K8S.md",
+    "AWS.md",
     "Prometheus.md",
     "Observability.md",
+    "INDEX.md",
+    "README.md",
     "GitOps.md",
     "IaaC.md",
     "OpenTelemetry.md",
-    "Grafana.md",
-    "VCS Platforms.md",
-    "img/mind-map-preview.gif",
-    "vcs/GitHub.md"
+    "Grafana.md"
   ]
 }
